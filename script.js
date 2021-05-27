@@ -66,7 +66,7 @@ const displayMovements = function(movemets){
       </div>
     `
   })
-} 
+}
 
 displayMovements(account1.movements)
 
